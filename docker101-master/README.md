@@ -1,4 +1,4 @@
-# Bootcamps/LocalizaLabs .NET Developer
+# Bootcamp/LocalizaLabs .NET Developer
 
 Repositório criado para auxiliar no aprendizado do curso Introdução a orquestração de contêineres com Docker, disponível na plataforma [Digital Innovation One](https://digitalinnovation.one/).
 
